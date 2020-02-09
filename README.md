@@ -1,6 +1,10 @@
 # Smart-Cane-for-visually-impaired-people
 A smart cane/stick with obstacle detection and voice feedback on temperature and humidity coordinated with Raspberry Pi 3 via Publish/Subscribe mechanism.
 
+Demo : https://www.youtube.com/watch?v=Zge1mMcBWkQ
+
+INSTRUCTIONS:
+
 Boot up a rpi3 and follow the following steps ,
 
 1. Stay up to date
