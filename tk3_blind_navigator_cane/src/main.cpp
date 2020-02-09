@@ -15,8 +15,8 @@ int hum;
 int temp;
 // WiFi network name and password: please modify according to
 //your own wifi connection specifics
-const char * networkName = "kenesolor";
-const char * networkPswd = "janinajanina";
+const char * networkName = "yourWiFiHotspot";
+const char * networkPswd = "yourWiFiPassword";
 PubSubClient client;
 WiFiClient wf;
 //function for connection to network
